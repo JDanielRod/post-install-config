@@ -17,12 +17,12 @@ So we've installed osTicket and now we're going to do some post-installation set
 </p>
 <br />
 
-
+Next, configure "Teams" and add a new one. Go to Agents-> Teams. After, we want to allow anyone to create tickets. To do this, on the Admin Panel go to Settings-> Users. Make sure "Require registration and login to create tickets" is unchecked.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/cpCGfB3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://imgur.com/J3gJSF7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 

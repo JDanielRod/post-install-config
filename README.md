@@ -12,7 +12,7 @@ So we've installed osTicket and now we're going to do some post-installation set
 <p>
 <img src="https://imgur.com/DnKOZL6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://imgur.com/jpqE3va.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0aObyvI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
 <br />

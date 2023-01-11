@@ -26,6 +26,30 @@ Next, configure "Teams" and add a new one. Go to Agents-> Teams. After, we want 
 </p>
 <br />
 
+Great, now lets create some agents. These would be employees in an organization. After that, we're going to add users. Go to Agent Panel-> Users -> Add New. We can make up any name we want.
+<p>
+<img src="https://imgur.com/TVY2jXp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+Alright, now lets configure SLA. SLA plans, or Service Level Agreement, provide a length of time in which help desk admins expect tickets to be closed. To configure go to Admin Panel -> Manage -> SLA -> Add New SLA. Create 3 new SLA plans.
+<p>
+<img src="https://imgur.com/GraKO81.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
